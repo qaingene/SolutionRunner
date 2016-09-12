@@ -21,11 +21,5 @@ namespace UnitTestProject10
 
             driver.Quit();
         }
-
-        [TestMethod]
-        public void TestMethod2()
-        {
-            Console.WriteLine("hi2");
-        }
     }
 }
