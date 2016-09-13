@@ -1,0 +1,10 @@
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\bin\Debug\UnitTestProject10.dll
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\bin\Debug\UnitTestProject10.pdb
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\obj\Debug\UnitTestProject10.dll
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\obj\Debug\UnitTestProject10.pdb
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\bin\Debug\WebDriver.dll
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\bin\Debug\WebDriver.xml
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\bin\Debug\WebDriver.Support.dll
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\bin\Debug\WebDriver.Support.xml
+C:\Users\evgeniy.kulikov\Documents\Visual Studio 2015\Projects\!\UnitTestProject10\SolutionRunner\UnitTestProject10\UnitTestProject10\obj\Debug\UnitTestProject10.csprojResolveAssemblyReference.cache
